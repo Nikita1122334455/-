@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    min-width: 100%;
+}
+
+.wrapper {
+    min-height: 100%;
+    font-family: 'Roboto', 'sans-serif';
+}
+
+.cc {
+    background-color: chocolate;
+    border-radius: 19px;
+}
+
+.desc {
+    margin: 57px 33px;
+}
+
+.title {
+    margin-bottom: 12px;
+
+
+}
